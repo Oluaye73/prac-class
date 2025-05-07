@@ -1,0 +1,26 @@
+
+#image {
+    width: 100px;
+    border-radius: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+
+}
+
+.fname{
+    text-align: center;
+    color: #ffffff;
+
+}
+.location{
+    text-align: center;
+}
+
+.stack{
+    text-align: center;
+}
+
+.box{ 
+    background-color: grey;
+}
+
