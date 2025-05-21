@@ -1,0 +1,51 @@
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+
+.list{
+    padding-left: 40px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 40px;
+}
+
+.list:hover{
+    color: red;
+}
+
+.first-h{
+    font-size: 40px;
+
+}
+
+.first-p{
+    font-size: medium;
+}
+
+.form-1{
+    padding: 10px, 40px;
+}
+
+.get-s{
+    padding: 10px, 30px ;
+    background-color: blue;
+    color: whitesmoke;
+    margin-left: 10px;
+    border-radius: 5px;
+    
+}
+
+.hero{
+    display: flex; 
+    margin-left: 60px;
+}
+
+.hero-1{
+    padding-top: 10px;
+}
